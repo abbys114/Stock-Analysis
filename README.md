@@ -8,6 +8,8 @@ Through this project, we were able to help Steve expand the dataset to include t
 ![Alt Text](https://github.com/abbys114/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
 
+![Alt Text](https://github.com/abbys114/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
+
 ## Project Summary
 
 ### Pros and Cons of Refractoring Code
