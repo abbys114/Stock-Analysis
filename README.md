@@ -5,6 +5,8 @@ Through this project, we were able to help Steve expand the dataset to include t
 
 ## Results
 
+![Alt Text](https://github.com/abbys114/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
+
 
 ## Project Summary
 
