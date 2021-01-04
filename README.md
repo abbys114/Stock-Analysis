@@ -23,7 +23,7 @@ When compared to the original VBA script, our refactored codes ran faster.  This
 ## Project Summary
 
 ### Pros and Cons of Refractoring Code
-
+There are advantages and disadvantages to refactoring code in general.  Some pros to refactoring code are that it makes the code run more efficiently.  This includes faster run time and requring the use of less memory space.  Refactoring also makes the code more user freiendly, which will help the creators use it and any other future user.  There are also disadvantages to refactoring code, which include that it is more time consuming.  If on a tight schedule, refactoring may not be an option.  Also, refactoring could open up oppurtunities for bugs to come in.  This would create more issues and take up more time eliminating the bugs.  Overall, refactoring makes code running more efficient, but it may not always be necessary. 
 
 ### PRos and Cons Applied to Refactoring the Original VBA Script
 
